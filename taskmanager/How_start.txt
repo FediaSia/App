@@ -1,0 +1,5 @@
+install python
+(in terminal)
+pip install django
+cd taskmanager
+python manage.py runserver
